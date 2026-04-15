@@ -141,7 +141,7 @@ const projects: Project[] = [
     metrics: ["64 Customers", "1 Year", "2hr Downtime"],
     image:
       "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80",
-    overview: "Enterprise-scale cloud migration from Rackspace to Azure.",
+    overview: "Enterprise-scale cloud migration from Virtual Machines stored in Rackspace to Azure.",
     challenge:
       "Migrate 64 enterprise customers within a fixed 12-month deadline while maintaining service continuity.",
     action:
