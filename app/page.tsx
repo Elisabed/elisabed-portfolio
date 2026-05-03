@@ -59,6 +59,34 @@ function Card({
 
 const projects: Project[] = [
   {
+    {
+  title: "Success Notes Ai — Customer Success Meeting Intelligence",
+  tag: "AI Project",
+  highlight: true,
+  metrics: ["AI-Powered", "Real-World Workflow", "Time Savings"],
+  image: "https://images.unsplash.com/photo-1677442135136-760c813a7436?auto=format&fit=crop&w=1600&q=80",
+  overview:
+    "Built an AI-powered assistant that transforms rough customer meeting notes into structured summaries, action items, and customer-ready communication.",
+  challenge:
+    "Customer Success Managers spend significant time manually converting meeting notes into structured updates, follow-ups, and CRM entries, leading to inefficiencies and inconsistency.",
+  action:
+    "Designed and developed an AI assistant using Python, Streamlit, and OpenAI API to automate meeting summaries, extract action items, identify risks, and generate follow-up emails with tone control for different audiences.",
+  result:
+    "Created a reusable workflow tool that produces consistent, high-quality meeting outputs in seconds, improving efficiency and communication quality.",
+  impact: [
+    "Reduced manual documentation time by ~70%",
+    "Improved consistency in customer communication",
+    "Enabled faster follow-ups and action tracking",
+  ],
+  tech: [
+    "Python",
+    "Streamlit",
+    "OpenAI API",
+    "Prompt Engineering",
+    "Customer Success",
+  ],
+  domains: ["AI", "Customer Success", "Automation"],
+},
     title: "VisiumKMS — EHS Solution Deployments",
     metrics: ["100+ Customers", "8 Years", "Cloud & On-Prem"],
     image:
