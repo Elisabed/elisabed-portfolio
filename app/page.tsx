@@ -165,7 +165,7 @@ const projects: Project[] = [
   {
     title: "Azure Cloud Migration",
     tag: "Flagship",
-    highlight: true,
+    highlight: false,
     metrics: ["64 Customers", "1 Year", "2hr Downtime"],
     image:
       "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80",
