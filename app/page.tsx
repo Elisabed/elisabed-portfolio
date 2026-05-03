@@ -85,7 +85,8 @@ const projects: Project[] = [
     "Customer Success",
   ],
   domains: ["AI", "Customer Success", "Automation"],
-},
+}, 
+  {
     title: "VisiumKMS — EHS Solution Deployments",
     metrics: ["100+ Customers", "8 Years", "Cloud & On-Prem"],
     image:
