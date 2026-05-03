@@ -59,7 +59,6 @@ function Card({
 
 const projects: Project[] = [
     {
-      {
   title: "Success Notes Ai — Customer Success Meeting Intelligence",
   tag: "AI Project",
   highlight: true,
