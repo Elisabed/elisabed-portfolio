@@ -63,7 +63,7 @@ const projects: Project[] = [
   tag: "AI Project",
   highlight: true,
   metrics: ["AI-Powered", "Real-World Workflow", "Time Savings"],
-  image: "https://images.unsplash.com/photo-1667984390531-0e4b3b9c6e2e?auto=format&fit=crop&w=1600&q=80",
+  image: "/images/ai-project.jpg",
   overview:
     "Built an AI-powered assistant that transforms rough customer meeting notes into structured summaries, action items, and customer-ready communication.",
   challenge:
